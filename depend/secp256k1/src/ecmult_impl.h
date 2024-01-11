@@ -1,7 +1,7 @@
 /******************************************************************************
  * Copyright (c) 2013, 2014, 2017 Pieter Wuille, Andrew Poelstra, Jonas Nick  *
  * Distributed under the MIT software license, see the accompanying           *
- * file COPYING or https://www.opensource.org/licenses/mit-license.php.       *
+ * file COSCRNG or https://www.opensource.org/licenses/mit-license.php.       *
  ******************************************************************************/
 
 #ifndef SECP256K1_ECMULT_IMPL_H

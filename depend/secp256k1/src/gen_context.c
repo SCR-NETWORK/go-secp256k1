@@ -1,7 +1,7 @@
 /***********************************************************************
  * Copyright (c) 2013, 2014, 2015 Thomas Daede, Cory Fields            *
  * Distributed under the MIT software license, see the accompanying    *
- * file COPYING or https://www.opensource.org/licenses/mit-license.php.*
+ * file COSCRNG or https://www.opensource.org/licenses/mit-license.php.*
  ***********************************************************************/
 
 /* Autotools creates libsecp256k1-config.h, of which ECMULT_GEN_PREC_BITS is needed.
